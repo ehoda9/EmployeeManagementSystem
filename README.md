@@ -137,10 +137,6 @@ Run the test suite with:
 python -m unittest discover -s test
 ```
 
-## Screenshots
-
-Screenshots of the application will be added here.
-
 ## Architecture
 
 The project is separated into backend and frontend layers.
